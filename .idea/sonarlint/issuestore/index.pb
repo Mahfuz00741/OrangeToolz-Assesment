@@ -1,0 +1,23 @@
+
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+{
+Ksrc/test/java/com/rhm/spring/batch/BatchProcessingDemoApplicationTests.java,0\0\00dd65ffc915c087379d75c39741ab2ee2be519e
+g
+7src/main/java/com/rhm/spring/batch/entity/Customer.java,d\5\d514d36125337a50265fe10fcb383be011422a00
+p
+@src/main/java/com/rhm/spring/batch/config/CustomerProcessor.java,d\5\d5cbe93bc68545b86d3a4851df91c0b9f4b7b8e4
+u
+Esrc/main/java/com/rhm/spring/batch/repository/CustomerRepository.java,1\e\1e1b5af62fcd510b5a9433c5ca282429330e2138
+p
+@src/main/java/com/rhm/spring/batch/controller/JobController.java,3\d\3d6219190a35e46271900e522843a7a47b46cac7
+p
+@src/main/java/com/rhm/spring/batch/config/SpringBatchConfig.java,3\4\348167c557bea41ae546a0d521e8ebf075cfd9ed
+c
+3src/main/java/com/rhm/spring/batch/entity/User.java,6\5\658f2b9f6a8d882c8850472c3ef5eb1a55d273d4
+q
+Asrc/main/java/com/rhm/spring/batch/repository/UserRepository.java,0\b\0b67b1af3f7d8b978379d06d7e8ecd1f45ea1ccc
